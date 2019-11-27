@@ -1,0 +1,6 @@
+framework module Pods_QMUICore_Example {
+  umbrella header "Pods-QMUICore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module QMUICore {
+  umbrella header "QMUICore-umbrella.h"
+
+  export *
+  module * { export * }
+}

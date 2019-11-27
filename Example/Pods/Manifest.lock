@@ -1,0 +1,27 @@
+PODS:
+  - QMUICore (1.0.0):
+    - QMUIKit/QMUICore (= 4.0.3)
+  - QMUIKit/QMUICore (4.0.3):
+    - QMUIKit/QMUILog
+    - QMUIKit/QMUIWeakObjectContainer
+  - QMUIKit/QMUILog (4.0.3)
+  - QMUIKit/QMUIWeakObjectContainer (4.0.3)
+
+DEPENDENCIES:
+  - QMUICore (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - QMUIKit
+
+EXTERNAL SOURCES:
+  QMUICore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QMUICore: 42da2920ef0ccfcfdf7dddc3cfc63ab36d31510c
+  QMUIKit: 92b1ac5112562aa4a788d786940c3e84f054aa1e
+
+PODFILE CHECKSUM: e784a1e738592558e05380ed8ac36836fed4c5f0
+
+COCOAPODS: 1.7.3
